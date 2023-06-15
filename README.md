@@ -1,2 +1,3 @@
 # Float-exercise
-A simple exercise in using Float CSS layout
+
+A simple exercise in using Float CSS layout.
